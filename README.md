@@ -70,7 +70,7 @@ Bot sudah online
 
 Berikut contoh pesan yang akan ditampilkan untuk pencarian menggunakan command nim/nama
 
-!(image)[example.png]
+![image](example)
 
 
 
