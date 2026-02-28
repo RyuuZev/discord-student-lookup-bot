@@ -70,7 +70,7 @@ Bot sudah online
 
 Berikut contoh pesan yang akan ditampilkan untuk pencarian menggunakan command nim/nama
 
-![image](example)
+![image](https://raw.githubusercontent.com/RyuuZev/mykisah/refs/heads/main/image.png)
 
 
 
