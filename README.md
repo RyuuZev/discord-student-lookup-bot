@@ -25,7 +25,7 @@ Dirancang untuk kebutuhan edukasi atau penggunaan internal kampus.
 ## 📦 Instalasi
 ### 1. Clone repository
 ```bash
-git clone https://github.com/yourusername/discord-student-bot.git
+git clone https://github.com/RyuuZev/discord-student-bot.git
 cd discord-student-bot
 ```
 
